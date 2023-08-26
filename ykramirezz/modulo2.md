@@ -1,2 +1,2 @@
 # hola mundo
-[link al archivo de inicio](./ykramirezz/inicio.md)
+[link al archivo de inicio](./inicio.md)
