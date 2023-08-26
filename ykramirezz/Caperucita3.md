@@ -3,4 +3,4 @@
 
 [Capitulo 2](./Caperucita2.md)
 
-[link al archivo de inicio](/inicio.md)
+[link al archivo de inicio](./inicio.md)
