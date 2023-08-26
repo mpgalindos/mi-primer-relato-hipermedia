@@ -11,7 +11,7 @@
 
 
 
-- POV [Caperusita](./modulo1.md)
+- POV [Caperucita](./modulo1.md)
 - POV [Lobo](./modulo2.md)
 - POV [Abuela](./modulo3.md)
 
