@@ -8,3 +8,7 @@
 *“¿Se los robó?” dijo la anciana sin sorpresa, más bien afirmando que era así.* 
 
 *“Bueno yo no estoy para que me interroguen” Carlos se levantó sin decir más, para ir a otra parte del bar, donde tenía pendientes con una niña de caperuza, vivía en el pueblo rojo, así que la llamaba -Caperucita roja-*  
+
+- [Capítulo uno](./modulo2.md)
+- [Capítulo tres](./Lobo3.md)
+- [link al archivo de inicio](./inicio.md)
