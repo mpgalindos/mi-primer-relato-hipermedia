@@ -1,4 +1,4 @@
-# POV CAPERUCITA CAPITULO DOS
+# CAPERUCITA CAPÍTULO 2
 [link al archivo de inicio](./inicio.md)
 
 [Capitulo uno](./modulo1.md)
