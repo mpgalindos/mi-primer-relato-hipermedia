@@ -27,5 +27,5 @@
 *FIN.* 
 
 - [Abuela Cap-3](./Abuela3.md)
-- [lobo Cap-3](./lobo3.md)
+- [lobo Cap-3](./Lobo3.md)
 - [Caperucita Cap-3](./Caperucita3.md)
