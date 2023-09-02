@@ -7,7 +7,7 @@
 
 
 
-- [Final](./FINAL.md)
+- [Final (leer despues de todos los puntos de vista.)](./FINAL.md) 
   
 - [Capitulo 2](./Abuela2.md)
   
