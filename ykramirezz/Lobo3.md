@@ -5,6 +5,8 @@
 *“Nos vemos de nuevo” Carlos había llegado al mismo lugar donde se robó las botellas, ¿La anciana era tan tonta para no ver que compró las mismas botellas que le habían robado? Carlos no sabía, pero se acercó husmeando el lugar. “Está solo” dijo para el mismo y entró a la fachada, viendo todo a detalle, no sabía por qué, pero sentía mucho cansancio, así que se sentó en la sala, no sin antes agarrar algo de la comida de la anciana, y embutírsela tan pronto pudo.*
 
 
+- [Final](./FINAL.md)
+
 - [Capitulo 2](./Lobo2.md)
 
 - [link al archivo de inicio](./inicio.md)
