@@ -5,8 +5,7 @@ Todo comienza en los tiempos más oscuros de la raza humana. Nace una pequeña e
 
 Ella perderia a sus padres por un malvado dictador y  gran lider llamado "lobo feroz" el dominaba todo el bosque del suroeste de el pueblo großer Korb
 
-![Niña](https:www://https://www.dsigno.es/blog/diseno-de-interiores/inspiracion-una-casa-en-el-bosque.jpg)
-
+![Niña](https://www.dsigno.es/blog/wp-content/uploads/2013/11/inspiracion_casa_bosque_3.jpg)
 
 
 
