@@ -1,0 +1,1 @@
+Las guerras entre humanos, leñadores y lobos, sucedieron hace un poco más de tres generaciones atrás, por aquel tiempo los habitantes de Villa Escarlata se unieron con los leñadores para combatir en las batallas, si no hubiera existido esa unión quizás no habría habido futuro para la población de la villa, aunque su mayoría de habitantes casi desaparece por causa de la guerra.
